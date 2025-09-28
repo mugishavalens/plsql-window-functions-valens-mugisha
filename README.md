@@ -1,3 +1,6 @@
+
+# plsql-window-functions-valens-mugisha
+
 # PLSQL Window Functions – Mugisha Valens
 
 
@@ -64,3 +67,7 @@ All screenshots are in the `/Screenshots/` folder, named by step.
 10. Oracle APEX Documentation. *SQL Workshop & Window Functions*. [https://docs.oracle.com/en/database/oracle/apex/](https://docs.oracle.com/en/database/oracle/apex/).
 
 
+<<<<<<< HEAD
+=======
+>>>>>>> 9ee9439 (plsql window functons practice)
+>>>>>>> 93c5690 (adding screenshots)
