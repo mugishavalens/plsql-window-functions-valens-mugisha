@@ -1,7 +1,4 @@
-
-# plsql-window-functions-valens-mugisha
-
-# PLSQL Window Functions – Mugisha Valens
+# PLSQL Window Functions – Mugisha Valens(27801)
 
 
 ## step 1: Problem Statement
